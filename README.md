@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/graj64194-ctrl/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/graj64194-ctrl/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/graj64194-ctrl/leetcode/tree/master/0342-power-of-four) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/graj64194-ctrl/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/graj64194-ctrl/leetcode/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
