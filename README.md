@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/graj64194-ctrl/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/graj64194-ctrl/leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/graj64194-ctrl/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/graj64194-ctrl/leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/graj64194-ctrl/leetcode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
