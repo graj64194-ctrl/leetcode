@@ -10,14 +10,14 @@ class Solution {
             
             if (j-i+1<k) j++;
             else if (j-i+1==k){
-                avg=sum/k;
-                max=Math.max(max,avg);
+                
+                max=Math.max(max,sum);
                 sum-=nums[i];
                 i++;
                 j++;
             }
 
         }
-        return max;
+        return max/k;
     }
 }
