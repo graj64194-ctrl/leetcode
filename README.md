@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/graj64194-ctrl/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/graj64194-ctrl/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/graj64194-ctrl/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1920-build-array-from-permutation](https://github.com/graj64194-ctrl/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/graj64194-ctrl/leetcode/tree/master/1929-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/graj64194-ctrl/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/graj64194-ctrl/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/graj64194-ctrl/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/graj64194-ctrl/leetcode/tree/master/1683-invalid-tweets) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/graj64194-ctrl/leetcode/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
