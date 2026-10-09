@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/graj64194-ctrl/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/graj64194-ctrl/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/graj64194-ctrl/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/graj64194-ctrl/leetcode/tree/master/0189-rotate-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/graj64194-ctrl/leetcode/tree/master/0001-two-sum) |
+| [0048-rotate-image](https://github.com/graj64194-ctrl/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/graj64194-ctrl/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/graj64194-ctrl/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/graj64194-ctrl/leetcode/tree/master/0075-sort-colors) |
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/graj64194-ctrl/leetcode/tree/master/1539-kth-missing-positive-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/graj64194-ctrl/leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
